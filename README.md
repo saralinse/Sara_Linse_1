@@ -29,7 +29,7 @@ Not very original of course, but this script allows the user to easily define th
 as well as the number of cutoffs applied and the color for display.
 
 # Data anlysis in sports
-My contribution to sports include scripts that creat the team result list for Hedjakten
-an orienteering event (https://eventor.orientering.se/Documents/Event/95774/1/Resultat-Lagt-vling)
-and for Lunds Bästa Allroundlöpare - a combination of reulst from Lundaloppet and 
+My contribution to sports include scripts that creat the team result list for Hedjakten,
+an orienteering event (https://eventor.orientering.se/Documents/Event/95774/1/Resultat-Lagt-vling),
+and for Lunds Bästa Allroundlöpare - a combination of the resulst from Lundaloppet and 
 S:t Hans Extreme (https://she.lundsok.se/resultatfiler/Lunds_basta_allroundlopare_2023.pdf)
