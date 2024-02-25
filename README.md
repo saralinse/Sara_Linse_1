@@ -1,7 +1,7 @@
 # Sara_Linse_1
 Python scripts
 
-# Who is Sara Linse?
+# Sara Linse
 I was trained in Fortran77 and slowly learning Python, so my code may look old-school, but it works.
 #
 # Early programming activities for MD simultaions
