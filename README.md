@@ -24,8 +24,8 @@ In this case all code was written by Björn. Björn Linse is very active on GitH
 # Data analysis in science 
 Nowadays I mainly write Python Scripts for data anlysis including the analysis of SPR data. 
 # Contact Diagrams
-The first Python Script that I have posted here on Github produces Contact Diagrams (PDBfilte_to_contactplot.py).
-Not very original of course, but this script allows he user to easily define the atom type investigated and the distance cutoff
+The first Python Script that I have posted here on Github produces a Contact Diagram (PDBfilte_to_contactplot.py).
+Not very original of course, but this script allows the user to easily define the atom type investigated and the distance cutoff
 as well as the number of cutoffs applied and the color for display.
 
 # Data anlysis in sports
