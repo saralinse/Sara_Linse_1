@@ -15,7 +15,7 @@ I have also written code for non-linear curve fitting used to study ligand bindi
 positive cooperativity of Ca2+ binding to S100G (doi: 10.1021/bi00395a023; doi: 10.1038/335651a0) 
 and calmodulin (https://doi.org/10.1016/S0021-9258(18)92938-8) to be quantified.
 # Homology searches
-I have also written code for homology searches (doi: 10.1074/jbc.272.23.14658) and for studies of fluorescence depolarization, also called homo-FRET (doi.org/10.1021/ma00167a028) with Mike Fayer, Stanford, in 1984.
+I have also written code for homology searches (doi: 10.1074/jbc.272.23.14658) and for studies of fluorescence depolarization, also called homo-FRET (doi.org/10.1021/ma00167a028) with Mike Fayer, Stanford University, in 1984.
 # Protein folding and amyloid formation
 Together wih Björn Linse, we produced Monte Carlo simulation programs for protein folding
 showing that the Levinthal Paradox can be resolved through kinetic discrimination (doi: 10.1021/ja070386e) 
